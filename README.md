@@ -16,3 +16,7 @@ After this you can open this file in Turbo C++ by clicking on open file
 # Possible Reasons for Error:
 1. graphic.h file might be missing from your computer.
 2. time.h file might be missing
+
+
+# Sample Output:
+![alt text](output.jpeg)
