@@ -1,7 +1,7 @@
-# Tatic Game
+# Tetris Game
 # Description:
-We were asked by our collage teacher to create a C-Language based program. So, I thought of make someting which is fun and can also be used for  entertainment.
-So i have created a game which we use to play as a kid "Tatic"
+We were asked by our collage proff to create a C-Language based program. So, I thought of make someting which is fun to code and also entertaining.
+So I created a game which we use to play as a kid "Tetris"
 # Different Libraries Used:
 1. stdio.h
 2. stdlib.h
